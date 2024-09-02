@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "Item 1",
+        "description": "First item",
+        "price": 9.99,
+        "on_offer": false
+    }
+]
